@@ -1,2 +1,0 @@
-利用Scrapy爬虫框架编写的两个爬虫ahuedu , jwc，分别爬取http://www.ahu.edu.cn和http://jwc.ahu.cn/main网页上的新闻标题、内容、发布时间、图片链接
-和附件链接。
