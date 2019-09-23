@@ -1,4 +1,4 @@
-# 根据输入的点坐标绘制图像
+# 根据输入的点坐标绘制平滑曲线
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import spline
